@@ -1,0 +1,1505 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package name="Nemnogo Piterskiy Pack" version="4" id="6259e55a-f856-424b-9ec0-ac15ee3d2514" date="12.04.2023"
+         difficulty="3" logo="@237px-Lesser_Coat_of_Arms_of_Saint_Petersburg.svg.png"
+         xmlns="http://vladimirkhil.com/ygpackage3.0.xsd">
+    <tags>
+        <tag/>
+    </tags>
+    <info>
+        <authors>
+            <author>Evgeniy Chuvikov</author>
+        </authors>
+    </info>
+    <rounds>
+        <round name="1-й раунд">
+            <themes>
+                <theme name="Киношечки 1">
+                    <questions>
+                        <question price="100">
+                            <scenario>
+                                <atom type="image">@1.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Однажды в Голливуде</answer>
+                            </right>
+                        </question>
+                        <question price="200">
+                            <scenario>
+                                <atom type="image">@2.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Круэлла</answer>
+                            </right>
+                        </question>
+                        <question price="300">
+                            <scenario>
+                                <atom type="image">@3.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>500 дней Лета</answer>
+                            </right>
+                        </question>
+                        <question price="400">
+                            <scenario>
+                                <atom type="image">@4.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Голубая Лагуна</answer>
+                            </right>
+                        </question>
+                        <question price="500">
+                            <scenario>
+                                <atom type="image">@5.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Молчание</answer>
+                            </right>
+                        </question>
+                        <question price="600">
+                            <scenario>
+                                <atom type="image">@6.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Дьявол носит Prada</answer>
+                            </right>
+                        </question>
+                        <question price="700">
+                            <scenario>
+                                <atom type="image">@7.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Последний Богатырь: Посланник тьмы</answer>
+                            </right>
+                        </question>
+                    </questions>
+                </theme>
+                <theme name="Песня по Emoji (Русские хиты 90-00х)">
+                    <info>
+                        <comments>Необходимо отгадать трек и исполнителя по картинке составленной из смайлов Emoji
+                        </comments>
+                    </info>
+                    <questions>
+                        <question price="100">
+                            <scenario>
+                                <atom type="image">@1_1.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Земфира - Хочешь сладких апельсинов?</answer>
+                            </right>
+                        </question>
+                        <question price="200">
+                            <scenario>
+                                <atom type="image">@2_1.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Бумбокс - Вахтёрам</answer>
+                            </right>
+                        </question>
+                        <question price="300">
+                            <scenario>
+                                <atom type="image">@3_1.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Отпетые мошенники - Девушки бывают разные</answer>
+                            </right>
+                        </question>
+                        <question price="400">
+                            <scenario>
+                                <atom type="image">@4_1.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Меладзе - Текила любовь</answer>
+                            </right>
+                        </question>
+                        <question price="500">
+                            <scenario>
+                                <atom type="image">@5_1.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Леприконсы - Хали-гали, паратрупер</answer>
+                            </right>
+                        </question>
+                        <question price="600">
+                            <scenario>
+                                <atom type="image">@6_1.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Шура - Холодная луна</answer>
+                            </right>
+                        </question>
+                        <question price="700">
+                            <scenario>
+                                <atom type="image">@7_1.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Максим Леонидов - Девочка-виденье</answer>
+                            </right>
+                        </question>
+                    </questions>
+                </theme>
+                <theme name="Станции метро Санкт-Петербурга">
+                    <questions>
+                        <question price="100">
+                            <scenario>
+                                <atom type="image">@1_2.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Маяковская</answer>
+                            </right>
+                        </question>
+                        <question price="200">
+                            <scenario>
+                                <atom type="image">@2_2.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Спортивная</answer>
+                            </right>
+                        </question>
+                        <question price="300">
+                            <scenario>
+                                <atom type="image">@3_2.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Обводный канал</answer>
+                            </right>
+                        </question>
+                        <question price="400">
+                            <scenario>
+                                <atom type="image">@4_2.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Автово</answer>
+                            </right>
+                        </question>
+                        <question price="500">
+                            <scenario>
+                                <atom type="image">@5_2.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Крестовский остров</answer>
+                            </right>
+                        </question>
+                        <question price="600">
+                            <scenario>
+                                <atom type="image">@6_2.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Коменданский проспект</answer>
+                            </right>
+                        </question>
+                        <question price="700">
+                            <scenario>
+                                <atom>Сколько станций метро насчитывает Санкт-Петербургский метрополитен на начало 2023
+                                    года? +/- 2
+                                </atom>
+                            </scenario>
+                            <right>
+                                <answer>72</answer>
+                            </right>
+                        </question>
+                    </questions>
+                </theme>
+                <theme name="ИА Панорама">
+                    <info>
+                        <comments>Представлены заголовки новостей. Нужно ответить правда ли была такая новость или же
+                            это ложь.
+                        </comments>
+                    </info>
+                    <questions>
+                        <question price="500">
+                            <type name="cat">
+                                <param name="theme">Правда или ложь</param>
+                                <param name="cost">500</param>
+                            </type>
+                            <scenario>
+                                <atom>В Оренбургской области с матом в интернете будут бороться казаки</atom>
+                            </scenario>
+                            <right>
+                                <answer>Правда</answer>
+                            </right>
+                        </question>
+                        <question price="500">
+                            <type name="cat">
+                                <param name="theme">Правда или ложь</param>
+                                <param name="cost">500</param>
+                            </type>
+                            <scenario>
+                                <atom>Россиянки начали добавлять снег с могилы Жанны Фриске в суп женихам</atom>
+                            </scenario>
+                            <right>
+                                <answer>Правда</answer>
+                            </right>
+                        </question>
+                        <question price="500">
+                            <type name="cat">
+                                <param name="theme">Правда или ложь</param>
+                                <param name="cost">500</param>
+                            </type>
+                            <scenario>
+                                <atom>Милонов внёс в Думу законопроект о признании всех бездетных мужчин
+                                    гомосексуалистами
+                                </atom>
+                            </scenario>
+                            <right>
+                                <answer>Ложь</answer>
+                            </right>
+                        </question>
+                        <question price="500">
+                            <type name="cat">
+                                <param name="theme">Правда или ложь</param>
+                                <param name="cost">500</param>
+                            </type>
+                            <scenario>
+                                <atom>Арестованные участники протестных акций в Москве сами толкали заглохший автозак
+                                </atom>
+                            </scenario>
+                            <right>
+                                <answer>Правда</answer>
+                            </right>
+                        </question>
+                        <question price="500">
+                            <type name="cat">
+                                <param name="theme">Правда или ложь</param>
+                                <param name="cost">500</param>
+                            </type>
+                            <scenario>
+                                <atom>В Лондоне загримированный под Ван Гога мужчина облил овощным супом
+                                    эко-активистов
+                                </atom>
+                            </scenario>
+                            <right>
+                                <answer>Ложь</answer>
+                            </right>
+                        </question>
+                        <question price="500">
+                            <type name="cat">
+                                <param name="theme">Правда или ложь</param>
+                                <param name="cost">500</param>
+                            </type>
+                            <scenario>
+                                <atom>Лукашенко: «Если кто и заслужил репарации, то это Беларусь»
+
+                                    «Я давно всем говорю, что пора создавать международный фонд, как это полагается,
+                                    чтобы он финансировал нам восстановление. И надо уже не говорить, а требовать», –
+                                    сказал он в обращении к Национальному собранию.
+                                </atom>
+                            </scenario>
+                            <right>
+                                <answer>Ложь</answer>
+                            </right>
+                        </question>
+                        <question price="500">
+                            <type name="cat">
+                                <param name="theme">Правда или ложь</param>
+                                <param name="cost">500</param>
+                            </type>
+                            <scenario>
+                                <atom>«Кто как обзывается, тот сам так называется»: Путин ответил Байдену, назвавшему
+                                    его убийцей
+                                </atom>
+                            </scenario>
+                            <right>
+                                <answer>Правда</answer>
+                            </right>
+                        </question>
+                    </questions>
+                </theme>
+                <theme name="Флаги 1">
+                    <questions>
+                        <question price="100">
+                            <scenario>
+                                <atom type="image">@1.png</atom>
+                            </scenario>
+                            <right>
+                                <answer>Швеция</answer>
+                            </right>
+                        </question>
+                        <question price="200">
+                            <scenario>
+                                <atom type="image">@2.png</atom>
+                            </scenario>
+                            <right>
+                                <answer>Индия</answer>
+                            </right>
+                        </question>
+                        <question price="300">
+                            <scenario>
+                                <atom type="image">@3.png</atom>
+                            </scenario>
+                            <right>
+                                <answer>Греция</answer>
+                            </right>
+                        </question>
+                        <question price="400">
+                            <scenario>
+                                <atom type="image">@4.png</atom>
+                            </scenario>
+                            <right>
+                                <answer>Новая Зеландия</answer>
+                            </right>
+                        </question>
+                        <question price="500">
+                            <scenario>
+                                <atom type="image">@5.png</atom>
+                            </scenario>
+                            <right>
+                                <answer>Мексика</answer>
+                            </right>
+                        </question>
+                        <question price="600">
+                            <scenario>
+                                <atom type="image">@6.png</atom>
+                            </scenario>
+                            <right>
+                                <answer>Тайланд</answer>
+                            </right>
+                        </question>
+                        <question price="700">
+                            <scenario>
+                                <atom type="image">@7.png</atom>
+                            </scenario>
+                            <right>
+                                <answer>Куба</answer>
+                            </right>
+                        </question>
+                    </questions>
+                </theme>
+                <theme name="Сериалы по фигуркам">
+                    <questions>
+                        <question price="100">
+                            <scenario>
+                                <atom type="image">@1_3.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Атака Титанов</answer>
+                            </right>
+                        </question>
+                        <question price="200">
+                            <scenario>
+                                <atom type="image">@2_3.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>LOST (Остаться в живых)</answer>
+                            </right>
+                        </question>
+                        <question price="300">
+                            <scenario>
+                                <atom type="image">@3_3.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Офис</answer>
+                            </right>
+                        </question>
+                        <question price="400">
+                            <scenario>
+                                <atom type="image">@4_3.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Команда А</answer>
+                            </right>
+                        </question>
+                        <question price="500">
+                            <scenario>
+                                <atom type="image">@5_3.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Мир Дикого Запада (Westworld)</answer>
+                            </right>
+                        </question>
+                        <question price="600">
+                            <scenario>
+                                <atom type="image">@6_3.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Секретные материалы (X-Files)</answer>
+                            </right>
+                        </question>
+                        <question price="700">
+                            <scenario>
+                                <atom type="image">@7_2.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Stranger Things (Очень странные дела)</answer>
+                            </right>
+                        </question>
+                    </questions>
+                </theme>
+                <theme name="AI рисует русские сериалы">
+                    <info>
+                        <comments>Нейросеть перерисовала популярные российские сериалы. Необходимо угадать оригинал
+                        </comments>
+                    </info>
+                    <questions>
+                        <question price="100">
+                            <scenario>
+                                <atom type="image">@1_5.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Счастливы вместе</answer>
+                            </right>
+                        </question>
+                        <question price="200">
+                            <scenario>
+                                <atom type="image">@2_5.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Деревня дураков</answer>
+                            </right>
+                        </question>
+                        <question price="300">
+                            <scenario>
+                                <atom type="image">@3_5.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Дальнобойщики</answer>
+                            </right>
+                        </question>
+                        <question price="400">
+                            <scenario>
+                                <atom type="image">@4_5.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Улицы разбитых фонарей</answer>
+                            </right>
+                        </question>
+                        <question price="500">
+                            <scenario>
+                                <atom type="image">@6_5.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Крутое пике</answer>
+                            </right>
+                        </question>
+                        <question price="600">
+                            <scenario>
+                                <atom type="image">@7_4.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Осторожно модерн</answer>
+                            </right>
+                        </question>
+                        <question price="700">
+                            <scenario>
+                                <atom type="image">@8.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Ранетки</answer>
+                            </right>
+                        </question>
+                    </questions>
+                </theme>
+            </themes>
+        </round>
+        <round name="2-й раунд">
+            <themes>
+                <theme name="Исполнитель по кадру из клипа">
+                    <questions>
+                        <question price="150">
+                            <scenario>
+                                <atom type="image">@1_4.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Queen - I want to break free</answer>
+                            </right>
+                        </question>
+                        <question price="300">
+                            <scenario>
+                                <atom type="image">@2_4.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Elton John - Still Standing</answer>
+                            </right>
+                        </question>
+                        <question price="450">
+                            <scenario>
+                                <atom type="image">@3_4.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Bloodhound Gang - The Bad Touch</answer>
+                            </right>
+                        </question>
+                        <question price="600">
+                            <scenario>
+                                <atom type="image">@4_4.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Jamiroquai - Virtual Insanity</answer>
+                            </right>
+                        </question>
+                        <question price="750">
+                            <scenario>
+                                <atom type="image">@5_4.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Black - Wonderful life</answer>
+                            </right>
+                        </question>
+                        <question price="900">
+                            <scenario>
+                                <atom type="image">@6_4.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Потап и Настя - Чумачечая Весна</answer>
+                            </right>
+                        </question>
+                        <question price="1050">
+                            <scenario>
+                                <atom type="image">@7_3.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Серега - Черный бумер</answer>
+                            </right>
+                        </question>
+                    </questions>
+                </theme>
+                <theme name="Маскоты">
+                    <info>
+                        <comments>На картинках представлены маскоты различных компаний. Необходимо назвать компанию
+                        </comments>
+                    </info>
+                    <questions>
+                        <question price="150">
+                            <scenario>
+                                <atom type="image">@1_6.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Мистер пропер</answer>
+                            </right>
+                        </question>
+                        <question price="300">
+                            <scenario>
+                                <atom type="image">@2_6.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Дино (Растишка/Danone)</answer>
+                            </right>
+                        </question>
+                        <question price="450">
+                            <scenario>
+                                <atom type="image">@3_6.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Duo (Duolingo)</answer>
+                            </right>
+                        </question>
+                        <question price="600">
+                            <scenario>
+                                <atom type="image">@4_6.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Иван Таранов (Пиво ПИТ)</answer>
+                            </right>
+                        </question>
+                        <question price="750">
+                            <scenario>
+                                <atom type="image">@5_5.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Семечки от Атамана</answer>
+                            </right>
+                        </question>
+                        <question price="900">
+                            <scenario>
+                                <atom type="image">@6_6.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Samsung (Gnusmas)</answer>
+                            </right>
+                        </question>
+                        <question price="1050">
+                            <scenario>
+                                <atom type="image">@7_5.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Пряник (Тульский МЧС)</answer>
+                            </right>
+                        </question>
+                    </questions>
+                </theme>
+                <theme name="Фильм по саундтреку">
+                    <questions>
+                        <question price="150">
+                            <scenario>
+                                <atom type="voice">@1.mp3</atom>
+                            </scenario>
+                            <right>
+                                <answer>Король Лев</answer>
+                            </right>
+                        </question>
+                        <question price="300">
+                            <scenario>
+                                <atom type="voice">@2.mp3</atom>
+                            </scenario>
+                            <right>
+                                <answer>Ла-Ла Лэнд</answer>
+                            </right>
+                        </question>
+                        <question price="450">
+                            <scenario>
+                                <atom type="voice">@3.mp3</atom>
+                            </scenario>
+                            <right>
+                                <answer>Бэтмен</answer>
+                            </right>
+                        </question>
+                        <question price="600">
+                            <scenario>
+                                <atom type="voice">@4.mp3</atom>
+                            </scenario>
+                            <right>
+                                <answer>Нарко</answer>
+                            </right>
+                        </question>
+                        <question price="750">
+                            <scenario>
+                                <atom type="voice">@5.mp3</atom>
+                            </scenario>
+                            <right>
+                                <answer>Холодное Сердце 2</answer>
+                            </right>
+                        </question>
+                        <question price="900">
+                            <scenario>
+                                <atom type="voice">@6.mp3</atom>
+                            </scenario>
+                            <right>
+                                <answer>Шерлок Холмс</answer>
+                            </right>
+                        </question>
+                        <question price="1050">
+                            <scenario>
+                                <atom type="voice">@7.mp3</atom>
+                            </scenario>
+                            <right>
+                                <answer>Курьер</answer>
+                            </right>
+                        </question>
+                    </questions>
+                </theme>
+                <theme name="Столицы">
+                    <questions>
+                        <question price="150">
+                            <scenario>
+                                <atom>Швейцария</atom>
+                            </scenario>
+                            <right>
+                                <answer>Берн</answer>
+                            </right>
+                        </question>
+                        <question price="300">
+                            <scenario>
+                                <atom>Латвия</atom>
+                            </scenario>
+                            <right>
+                                <answer>Рига</answer>
+                            </right>
+                        </question>
+                        <question price="450">
+                            <scenario>
+                                <atom>Канада</atom>
+                            </scenario>
+                            <right>
+                                <answer>Оттава</answer>
+                            </right>
+                        </question>
+                        <question price="600">
+                            <scenario>
+                                <atom>Южная Корея</atom>
+                            </scenario>
+                            <right>
+                                <answer>Сеул</answer>
+                            </right>
+                        </question>
+                        <question price="750">
+                            <scenario>
+                                <atom>Уругвай</atom>
+                            </scenario>
+                            <right>
+                                <answer>Монтевидео</answer>
+                            </right>
+                        </question>
+                        <question price="900">
+                            <scenario>
+                                <atom>Бангладеш</atom>
+                            </scenario>
+                            <right>
+                                <answer>Дакка</answer>
+                            </right>
+                        </question>
+                        <question price="1050">
+                            <scenario>
+                                <atom>Мадагаскар</atom>
+                            </scenario>
+                            <right>
+                                <answer>Антананариву</answer>
+                            </right>
+                        </question>
+                    </questions>
+                </theme>
+                <theme name="Церкви и соборы Санкт-Петербурга">
+                    <questions>
+                        <question price="150">
+                            <scenario>
+                                <atom type="image">@1_7.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Храм Воскресения Христова на Крови́ (храм Спа́са на Крови́)</answer>
+                            </right>
+                        </question>
+                        <question price="300">
+                            <scenario>
+                                <atom type="image">@2_7.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Кафедральный собор Святого Исаакия (Исаакиевский)</answer>
+                            </right>
+                        </question>
+                        <question price="450">
+                            <scenario>
+                                <atom type="image">@3_7.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Казанский собор</answer>
+                            </right>
+                        </question>
+                        <question price="600">
+                            <scenario>
+                                <atom type="image">@4_7.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Воскресенский Смольный собор</answer>
+                            </right>
+                        </question>
+                        <question price="750">
+                            <scenario>
+                                <atom type="image">@5_6.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Троицкий собор</answer>
+                            </right>
+                        </question>
+                        <question price="900">
+                            <scenario>
+                                <atom type="image">@6_7.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Николо-Богоявленский морской собор (Никольский собор)</answer>
+                            </right>
+                        </question>
+                        <question price="1050">
+                            <scenario>
+                                <atom type="image">@7_6.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Александро-Невская лавра</answer>
+                            </right>
+                        </question>
+                    </questions>
+                </theme>
+                <theme name="Импортозамещение">
+                    <info>
+                        <comments>Многие компании сменили свои названия в России после событий 24.02.2022. По картинке и
+                            новому названию компании, необходимо назвать "старое"/оригинальное название компании.
+                        </comments>
+                    </info>
+                    <questions>
+                        <question price="150">
+                            <scenario>
+                                <atom type="image">@1_8.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Starbucks -&gt; Stars Coffee</answer>
+                            </right>
+                        </question>
+                        <question price="300">
+                            <scenario>
+                                <atom type="image">@2_8.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Reserved -&gt; RE</answer>
+                            </right>
+                        </question>
+                        <question price="450">
+                            <scenario>
+                                <atom type="image">@3_8.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Paulig -&gt; Poetti</answer>
+                            </right>
+                        </question>
+                        <question price="600">
+                            <scenario>
+                                <atom type="image">@4_8.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Valio -&gt; Viola</answer>
+                            </right>
+                        </question>
+                        <question price="750">
+                            <scenario>
+                                <atom type="image">@5_7.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>ESquire -&gt; Правила Жизни</answer>
+                            </right>
+                        </question>
+                        <question price="900">
+                            <scenario>
+                                <atom type="image">@6_8.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Renault -&gt; Москвич</answer>
+                            </right>
+                        </question>
+                        <question price="1050">
+                            <scenario>
+                                <atom type="image">@7_7.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Shell -&gt; Teboil</answer>
+                            </right>
+                        </question>
+                    </questions>
+                </theme>
+            </themes>
+        </round>
+        <round name="3-й раунд">
+            <themes>
+                <theme name="Мосты Санкт-Петербурга">
+                    <questions>
+                        <question price="200">
+                            <scenario>
+                                <atom type="image">@1_9.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Банковский мост</answer>
+                            </right>
+                        </question>
+                        <question price="400">
+                            <scenario>
+                                <atom type="image">@2_9.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Львиный мост</answer>
+                            </right>
+                        </question>
+                        <question price="600">
+                            <scenario>
+                                <atom type="image">@3_9.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Биржевой мост</answer>
+                            </right>
+                        </question>
+                        <question price="800">
+                            <scenario>
+                                <atom type="image">@4_9.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Каменноостровский мост</answer>
+                            </right>
+                        </question>
+                        <question price="1000">
+                            <scenario>
+                                <atom type="image">@5_8.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Троицкий</answer>
+                            </right>
+                        </question>
+                        <question price="1200">
+                            <scenario>
+                                <atom type="image">@6_9.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Литейный мост</answer>
+                            </right>
+                        </question>
+                        <question price="1400">
+                            <scenario>
+                                <atom type="image">@7_8.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Большой Обуховский мост</answer>
+                            </right>
+                        </question>
+                    </questions>
+                </theme>
+                <theme name="География России">
+                    <questions>
+                        <question price="200">
+                            <scenario>
+                                <atom>Какая российская республика - самая большая?</atom>
+                            </scenario>
+                            <right>
+                                <answer>Саха(Якутия)</answer>
+                            </right>
+                        </question>
+                        <question price="400">
+                            <scenario>
+                                <atom>Самая высокая гора в России</atom>
+                            </scenario>
+                            <right>
+                                <answer>Эльбрус</answer>
+                            </right>
+                        </question>
+                        <question price="600">
+                            <scenario>
+                                <atom>Раньше этот город назывался Кёнингсберг. Как он называется сейчас?</atom>
+                            </scenario>
+                            <right>
+                                <answer>Калининград</answer>
+                            </right>
+                        </question>
+                        <question price="800">
+                            <scenario>
+                                <atom>На берегах какой реки построен Великий Новгород</atom>
+                            </scenario>
+                            <right>
+                                <answer>Волхов</answer>
+                            </right>
+                        </question>
+                        <question price="1000">
+                            <scenario>
+                                <atom>В какое море впадает река Урал</atom>
+                            </scenario>
+                            <right>
+                                <answer>Каспийское</answer>
+                            </right>
+                        </question>
+                        <question price="1200">
+                            <scenario>
+                                <atom>Какая река РФ самая длинная?</atom>
+                            </scenario>
+                            <right>
+                                <answer>Амур 4444км</answer>
+                            </right>
+                        </question>
+                        <question price="1400">
+                            <scenario>
+                                <atom>Какие народы являются коренными жителями Европейского Севера России?</atom>
+                            </scenario>
+                            <right>
+                                <answer>Карелы и Коми</answer>
+                            </right>
+                        </question>
+                    </questions>
+                </theme>
+                <theme name="Фильмы по цитате">
+                    <questions>
+                        <question price="200">
+                            <scenario>
+                                <atom type="voice">@1_1.mp3</atom>
+                            </scenario>
+                            <right>
+                                <answer>Смешарики</answer>
+                            </right>
+                        </question>
+                        <question price="400">
+                            <scenario>
+                                <atom type="voice">@2_1.mp3</atom>
+                            </scenario>
+                            <right>
+                                <answer>Ранетки</answer>
+                            </right>
+                        </question>
+                        <question price="600">
+                            <scenario>
+                                <atom type="voice">@3_1.mp3</atom>
+                            </scenario>
+                            <right>
+                                <answer>Дюна</answer>
+                            </right>
+                        </question>
+                        <question price="800">
+                            <scenario>
+                                <atom type="voice">@4_1.mp3</atom>
+                            </scenario>
+                            <right>
+                                <answer>Джон Уик 2</answer>
+                            </right>
+                        </question>
+                        <question price="1000">
+                            <scenario>
+                                <atom type="voice">@5_1.mp3</atom>
+                            </scenario>
+                            <right>
+                                <answer>Главный герой</answer>
+                            </right>
+                        </question>
+                        <question price="1200">
+                            <scenario>
+                                <atom type="voice">@6_1.mp3</atom>
+                            </scenario>
+                            <right>
+                                <answer>Французский вестник</answer>
+                            </right>
+                        </question>
+                        <question price="1400">
+                            <scenario>
+                                <atom type="voice">@7_1.mp3</atom>
+                            </scenario>
+                            <right>
+                                <answer>Помни (Memento)</answer>
+                            </right>
+                        </question>
+                    </questions>
+                </theme>
+                <theme name="Правда или ложь">
+                    <info>
+                        <comments>Представлены различные факты. Необходимо назвать ложь это или правда.</comments>
+                    </info>
+                    <questions>
+                        <question price="500">
+                            <type name="cat">
+                                <param name="theme">Правда или ложь</param>
+                                <param name="cost">500</param>
+                            </type>
+                            <scenario>
+                                <atom>Самая короткая война в истории длилась 38 минут</atom>
+                            </scenario>
+                            <right>
+                                <answer>Правда. Это была война между Великобританией и Занзибаром. Она началась и
+                                    закончилась 27 августа 1896 года
+                                </answer>
+                            </right>
+                        </question>
+                        <question price="500">
+                            <type name="cat">
+                                <param name="theme">Правда или ложь</param>
+                                <param name="cost">500</param>
+                            </type>
+                            <scenario>
+                                <atom>В Швейцарии запрещено заводить только одну морскую свинку или попугая. Можно
+                                    минимум двух.
+                                </atom>
+                            </scenario>
+                            <right>
+                                <answer>Правда. Морские свинки и попугаи, которые живут одни, умирают раньше тех,
+                                    которые живут в паре. В Швейцарии приняли закон, чтобы защитить домашних питомцев.
+                                </answer>
+                            </right>
+                        </question>
+                        <question price="500">
+                            <type name="cat">
+                                <param name="theme">Правда или ложь</param>
+                                <param name="cost">500</param>
+                            </type>
+                            <scenario>
+                                <atom>Логотип компании Chupa Chups нарисовал Сальвадор Дали</atom>
+                            </scenario>
+                            <right>
+                                <answer>Правда. Дали был земляком основателя компании Энрике Берната, который и попросил
+                                    знаменитого художника придумать логотип.
+                                </answer>
+                            </right>
+                        </question>
+                        <question price="500">
+                            <type name="cat">
+                                <param name="theme">Правда или ложь</param>
+                                <param name="cost">500</param>
+                            </type>
+                            <scenario>
+                                <atom>Бадминтон входит в программу подготовки летчиков-космонавтов.</atom>
+                            </scenario>
+                            <right>
+                                <answer>Правда</answer>
+                            </right>
+                        </question>
+                        <question price="500">
+                            <type name="cat">
+                                <param name="theme">Правда или ложь</param>
+                                <param name="cost">500</param>
+                            </type>
+                            <scenario>
+                                <atom>Известный российский композитор Петр Ильич Чайковский никогда не посещал США,
+                                    несмотря на то, что многие его произведения стали популярными в Америке.
+                                </atom>
+                            </scenario>
+                            <right>
+                                <answer>Ложь</answer>
+                            </right>
+                        </question>
+                        <question price="500">
+                            <type name="cat">
+                                <param name="theme">Правда или ложь</param>
+                                <param name="cost">500</param>
+                            </type>
+                            <scenario>
+                                <atom>Американский президент Джордж Вашингтон был избран на эту должность единогласно
+                                    всеми делегатами на Конгрессе, который состоялся в 1789 году.
+                                </atom>
+                            </scenario>
+                            <right>
+                                <answer>Правда</answer>
+                            </right>
+                        </question>
+                        <question price="500">
+                            <type name="cat">
+                                <param name="theme">Правда или ложь</param>
+                                <param name="cost">500</param>
+                            </type>
+                            <scenario>
+                                <atom>Женщины имели право голоса на выборах в Древней Греции</atom>
+                            </scenario>
+                            <right>
+                                <answer>Ложь</answer>
+                            </right>
+                        </question>
+                    </questions>
+                </theme>
+                <theme name="Флаги 2">
+                    <questions>
+                        <question price="200">
+                            <scenario>
+                                <atom type="image">@1_1.png</atom>
+                            </scenario>
+                            <right>
+                                <answer>Хорватия</answer>
+                            </right>
+                        </question>
+                        <question price="400">
+                            <scenario>
+                                <atom type="image">@2_1.png</atom>
+                            </scenario>
+                            <right>
+                                <answer>Пакистан</answer>
+                            </right>
+                        </question>
+                        <question price="600">
+                            <scenario>
+                                <atom type="image">@3_1.png</atom>
+                            </scenario>
+                            <right>
+                                <answer>Исландия</answer>
+                            </right>
+                        </question>
+                        <question price="800">
+                            <scenario>
+                                <atom type="image">@4_1.png</atom>
+                            </scenario>
+                            <right>
+                                <answer>Ливан</answer>
+                            </right>
+                        </question>
+                        <question price="1000">
+                            <scenario>
+                                <atom type="image">@5_1.png</atom>
+                            </scenario>
+                            <right>
+                                <answer>Монголия</answer>
+                            </right>
+                        </question>
+                        <question price="1200">
+                            <scenario>
+                                <atom type="image">@6_1.png</atom>
+                            </scenario>
+                            <right>
+                                <answer>Сейшельские острова</answer>
+                            </right>
+                        </question>
+                        <question price="1400">
+                            <scenario>
+                                <atom type="image">@7_1.png</atom>
+                            </scenario>
+                            <right>
+                                <answer>Эквадор</answer>
+                            </right>
+                        </question>
+                    </questions>
+                </theme>
+                <theme name="Вымышленные города">
+                    <info>
+                        <comments>На картинках представлены различные вымышленные города из фильмов/сериалов/игр,
+                            необходимо дать их названия в ответе.
+                        </comments>
+                    </info>
+                    <questions>
+                        <question price="200">
+                            <scenario>
+                                <atom type="image">@1_10.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Спрингфилд (Симпсоны)</answer>
+                            </right>
+                        </question>
+                        <question price="400">
+                            <scenario>
+                                <atom type="image">@2_10.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Бикини Боттом (Губка Боб)</answer>
+                            </right>
+                        </question>
+                        <question price="600">
+                            <scenario>
+                                <atom type="image">@6_10.jpg</atom>
+                                <atom type="marker"></atom>
+                                <atom type="image">@6_answer.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Твин Пикс</answer>
+                            </right>
+                        </question>
+                        <question price="800">
+                            <scenario>
+                                <atom type="image">@3_10.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Сайлент Хилл</answer>
+                            </right>
+                        </question>
+                        <question price="1000">
+                            <scenario>
+                                <atom type="image">@5_9.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Королевская Гавань (Игра Престолов)</answer>
+                            </right>
+                        </question>
+                        <question price="1200">
+                            <scenario>
+                                <atom type="image">@4_10.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Зион (Матрица)</answer>
+                            </right>
+                        </question>
+                        <question price="1400">
+                            <scenario>
+                                <atom type="image">@7_9.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Штормград (Варкрафт)</answer>
+                            </right>
+                        </question>
+                    </questions>
+                </theme>
+                <theme name="Киношечки 2">
+                    <questions>
+                        <question price="200">
+                            <scenario>
+                                <atom type="image">@1_11.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Инопланетянин</answer>
+                            </right>
+                        </question>
+                        <question price="400">
+                            <scenario>
+                                <atom type="image">@2_11.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Бегущий по лезвию</answer>
+                            </right>
+                        </question>
+                        <question price="600">
+                            <scenario>
+                                <atom type="image">@3_11.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Фарго</answer>
+                            </right>
+                        </question>
+                        <question price="800">
+                            <scenario>
+                                <atom type="image">@4_11.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Робин Гуд</answer>
+                            </right>
+                        </question>
+                        <question price="1000">
+                            <scenario>
+                                <atom type="image">@5_10.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Шпион, выйди вон</answer>
+                            </right>
+                        </question>
+                        <question price="1200">
+                            <scenario>
+                                <atom type="image">@6_11.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Время</answer>
+                            </right>
+                        </question>
+                        <question price="2000">
+                            <scenario>
+                                <atom type="image">@7_10.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Пи (Даррен Аронофски)</answer>
+                            </right>
+                        </question>
+                    </questions>
+                </theme>
+            </themes>
+        </round>
+        <round name="Финал" type="final">
+            <info>
+                <comments>Вопросы разной сложности, буква в названии категории указывает на той с какой буквы будет
+                    начинаться ответ.
+                </comments>
+            </info>
+            <themes>
+                <theme name="А">
+                    <questions>
+                        <question price="0">
+                            <scenario>
+                                <atom>Легендарный остров, который, по преданию, находился где-то в Атлантическом океане,
+                                    исчез во время катастрофических природных явлений и до сих пор не найден.
+                                </atom>
+                            </scenario>
+                            <right>
+                                <answer>Атлантида</answer>
+                            </right>
+                        </question>
+                    </questions>
+                </theme>
+                <theme name="Б">
+                    <questions>
+                        <question price="0">
+                            <scenario>
+                                <atom>Какую игру можно назвать "волшебной" благодаря своей геометрической симметрии,
+                                    использованию физики и стратегическим тактикам игроков, а также ее популярности
+                                    среди профессиональных игроков и любителей со всего мира? У данной игры также есть
+                                    несколько разновидностей. Название одной из них похоже на название печенья, а другая
+                                    содержит в названии принадлежность к России.
+                                </atom>
+                            </scenario>
+                            <right>
+                                <answer>Бильярд</answer>
+                            </right>
+                        </question>
+                    </questions>
+                </theme>
+                <theme name="В">
+                    <questions>
+                        <question price="0">
+                            <scenario>
+                                <atom>Андрей Козлов пишет, что новая книга шотландца Чарльза Маклина служит надежным
+                                    справочником, в котором, в частности, можно найти ответы на вопросы, чем отличается
+                                    выдержка в хересе и бурбоне и что такое "бочковАя крепость". Название этой книги
+                                    обыгрывает название популярного источника. Напишите название книги по-английски или
+                                    по-русски.
+                                </atom>
+                            </scenario>
+                            <right>
+                                <answer>Вискипедия</answer>
+                            </right>
+                        </question>
+                    </questions>
+                </theme>
+                <theme name="Г">
+                    <questions>
+                        <question price="0">
+                            <scenario>
+                                <atom>Участник одной добровольческой организации (Лиза Алерт) просит ИХ не использовать
+                                    камуфляж, ведь добыча не разбежится и от более ярких вариантов одежды. Назовите ИХ.
+                                </atom>
+                            </scenario>
+                            <right>
+                                <answer>Грибники</answer>
+                            </right>
+                        </question>
+                    </questions>
+                </theme>
+                <theme name="Д">
+                    <questions>
+                        <question price="0">
+                            <scenario>
+                                <atom>Существует множество видов ЕГО, среди которых, например, кредитный и подряда,
+                                    поручительский и агентский, и В ЗАКЛЮЧЕНИЕ нашего списка — Рештский. А что должен
+                                    был потерять герой Брендона Фрейзера после НЕГО с героиней Элизабет Хёрли?
+                                </atom>
+                            </scenario>
+                            <right>
+                                <answer>Душу</answer>
+                            </right>
+                        </question>
+                    </questions>
+                </theme>
+                <theme name="Е">
+                    <questions>
+                        <question price="0">
+                            <scenario>
+                                <atom>Данная особенность персонажа популярного сериала "Игра Престолов" упоминается
+                                    несколько раз и используется собеседниками в разговоре с персонажем в целях задеть
+                                    его чувства, в очередной раз напомнив об огромной утрате. Как одним словом описать
+                                    человека с данной особенностью?
+                                </atom>
+                            </scenario>
+                            <right>
+                                <answer>Евнух</answer>
+                            </right>
+                        </question>
+                    </questions>
+                </theme>
+                <theme name="Ж">
+                    <questions>
+                        <question price="0">
+                            <scenario>
+                                <atom>Когда европейцы впервые увидели ЭТО животное, они назвали его «верблюдопардом»,
+                                    решив, что это гибрид верблюда и леопарда. Назовите животное.
+                                </atom>
+                            </scenario>
+                            <right>
+                                <answer>Жираф</answer>
+                            </right>
+                        </question>
+                    </questions>
+                </theme>
+                <theme name="З">
+                    <questions>
+                        <question price="0">
+                            <scenario>
+                                <atom>В 1992 году во время матча "Эстудиантес" и "Химнасии" игрок гостей забил гол в
+                                    добавленное время. Радость болельщиков была очень бурной, и одна из местных служб
+                                    решила, что произошло ОНО.
+                                </atom>
+                            </scenario>
+                            <right>
+                                <answer>Землетрясение</answer>
+                            </right>
+                        </question>
+                    </questions>
+                </theme>
+                <theme name="И">
+                    <questions>
+                        <question price="0">
+                            <scenario>
+                                <atom>Считается, что именно от его "рук" погиб довольно известный музыкант активно
+                                    выступавший в 1980-х годах в России, который также был успешен в аграрном
+                                    производстве, заигрывании с довольно молодыми девушками и страстно надеявшийся на
+                                    перемены в обществе.
+                                </atom>
+                            </scenario>
+                            <right>
+                                <answer>Икарус</answer>
+                            </right>
+                        </question>
+                    </questions>
+                </theme>
+                <theme name="К">
+                    <questions>
+                        <question price="0">
+                            <scenario>
+                                <atom>Какой напиток был первым в мире, получившим официальное признание медицинской
+                                    науки и рекомендован к употреблению при заболеваниях желудочно-кишечного тракта, а
+                                    также использовался для лечения туберкулеза в СССР? Он также пользуется большой
+                                    популярностью у народов Средней Азии и был использован в качестве боевого рациона во
+                                    время Первой мировой войны.
+                                </atom>
+                            </scenario>
+                            <right>
+                                <answer>Кумыс</answer>
+                            </right>
+                        </question>
+                    </questions>
+                </theme>
+            </themes>
+        </round>
+    </rounds>
+</package>
